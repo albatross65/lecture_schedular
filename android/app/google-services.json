@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "596526167659",
+    "project_id": "scheduler-app-2ecc9",
+    "storage_bucket": "scheduler-app-2ecc9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596526167659:android:4b1527749fbe22410f232e",
+        "android_client_info": {
+          "package_name": "com.example.lecture_schedular"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO6-YZ535kexUvMmRwzRdz63pcLpe4smM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
